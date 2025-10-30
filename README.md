@@ -135,7 +135,3 @@ Maintaining only trusted, essential extensions ensures better performance and re
 
 All actions were performed on a **personal system** without any unauthorized access or data manipulation.
 
----
-
-## License
-This work is licensed under the [MIT License](https://opensource.org/licenses/MIT).
